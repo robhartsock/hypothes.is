@@ -214,6 +214,16 @@ node_modules/@framer/edoardo.web-ui-kit/design/document.json
 node_modules/@framer/edoardo.web-ui-kit/code/canvas.tsx
 node_modules/@framer/edoardo.web-ui-kit/build/index.js
 node_modules/@framer/edoardo.web-ui-kit/README.md
+node_modules/@framer/deplodog.pagination/tsconfig.json
+node_modules/@framer/deplodog.pagination/package.json
+node_modules/@framer/deplodog.pagination/metadata/icon.png
+node_modules/@framer/deplodog.pagination/metadata/artwork.png
+node_modules/@framer/deplodog.pagination/design/document.json
+node_modules/@framer/deplodog.pagination/code/canvas.tsx
+node_modules/@framer/deplodog.pagination/code/Pagination.tsx
+node_modules/@framer/deplodog.pagination/code/Examples.ts
+node_modules/@framer/deplodog.pagination/build/index.js
+node_modules/@framer/deplodog.pagination/README.md
 node_modules/@framer/benjamin.profile/tsconfig.json
 node_modules/@framer/benjamin.profile/package.json
 node_modules/@framer/benjamin.profile/node_modules/@types/react/package.json
