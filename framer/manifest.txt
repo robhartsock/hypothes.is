@@ -258,9 +258,15 @@ node_modules/@framer/aalok-trivedi.circle-graph/code/CircleGraph_2Value.tsx
 node_modules/@framer/aalok-trivedi.circle-graph/code/CircleGraph.tsx
 node_modules/@framer/aalok-trivedi.circle-graph/build/index.js
 node_modules/@framer/aalok-trivedi.circle-graph/README.md
+design/images/vYubSMQ0OiCrbDCu40Q3kenFDs.jpg
 design/images/twkXXAttD2jMbbNsyPg7oWvmE.png
 design/images/sgl0hB7MiuZwYI6ZbeKMTzabnUQ.png
+design/images/qHIfIsddMHLZTqdk51uuVb8ytM.jpg
+design/images/ppNiTHCnKOZbwi2PGkrhz3rBFVU.jpg
 design/images/V7QLl8vJTezT1iPrpYU7MIiY318.png
+design/images/P1YtXOWY6EUzDgGxTzUzLHpSD5I.jpg
+design/images/DXHYEmJc8TFFrHajsJDGcgx92M.jpg
+design/images/BsDLqJeZ6MQ6K1d4IkSPwNQVF6k.png
 build/vendors.js
 build/framer.js
 index.html
